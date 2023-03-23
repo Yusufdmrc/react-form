@@ -1,4 +1,4 @@
-REACT-FORM
+React Form
 ---------------------------------------------------------------------------------
 Project created using the formik library in the form section of Patika.dev.In addition, form validation processes were carried out easily by using the yup library.
 
