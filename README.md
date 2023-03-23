@@ -1,3 +1,8 @@
+REACT-FORM
+---------------------------------------------------------------------------------
+Project created using the formik library in the form section of Patika.dev.In addition, form validation processes were carried out easily by using the yup library.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
